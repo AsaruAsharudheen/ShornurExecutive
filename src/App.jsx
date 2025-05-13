@@ -29,7 +29,7 @@ const App = () => {
       <div className="poster-wrapper" ref={posterRef}>
         {/* Poster Background */}
         <img
-          src="public/Tag W Photo Excecutive.png"
+          src="/Tag W Photo Excecutive.png"
           alt="Poster Background"
           className="poster-bg"
         />
